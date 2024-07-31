@@ -1,0 +1,194 @@
+Hello! Please enter your good name: o
+Hey! Warm Welcome o. Do you know the rules of the game? (yes/no): no
+Yes, thanks for pressing yes. The rules are as follows below:
+
+        Rules of Three in a Row:
+        1. Each player rolls two dice. If the scores are in direct sequence, the lower number is doubled and added to the larger number. Otherwise, they are simply added together.
+        2. If one score is greater than 12, the other player wins. If both scores are greater than 12 or both are 12, it's a draw.
+        3. If scores are equal and less than 12, both throw one more die.
+        4. If scores are unequal and less than 12, the higher score player can stick or roll one more die.
+        5. If all three dice are in a row, the player wins automatically. Otherwise, scores are compared again.
+        6. The final winner is determined by the highest score, or a draw is declared if scores are equal.
+        
+yu 2
+
+yu 0
+
+talha 2
+
+noio 1
+
+
+Game History:
+Total Matches: 4
+User Wins: 5
+Computer Wins: 5
+Draws: 1
+
+Starting a new game...
+ First Dice: 5 Second Dice: 5
+Length : 2
+ First Dice: 5 Second Dice: 3
+Length : 2
+
+o rolled [5, 5] with a score of 10
+Computer rolled [5, 3] with a score of 8
+Hey there o! Do you want to stick or throw again? (stick/throw): stick
+ First Dice: 5 Second Dice: 3
+Length : 3
+ First Dice: 5 Second Dice: 3 Third Dice: 4
+
+Final Scores - o: 10, Computer: 12
+Computer wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 4 Second Dice: 1
+Length : 2
+ First Dice: 2 Second Dice: 1
+Length : 2
+
+o rolled [4, 1] with a score of 5
+Computer rolled [2, 1] with a score of 4
+Hey there o! Do you want to stick or throw again? (stick/throw): stick
+ First Dice: 2 Second Dice: 1
+Length : 3
+ First Dice: 2 Second Dice: 1 Third Dice: 5
+
+Final Scores - o: 5, Computer: 9
+Computer wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 3 Second Dice: 3
+Length : 2
+ First Dice: 1 Second Dice: 3
+Length : 2
+
+o rolled [3, 3] with a score of 6
+Computer rolled [1, 3] with a score of 4
+Hey there o! Do you want to stick or throw again? (stick/throw): stick
+ First Dice: 1 Second Dice: 3
+Length : 3
+ First Dice: 1 Second Dice: 3 Third Dice: 5
+
+Final Scores - o: 6, Computer: 9
+Computer wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 6 Second Dice: 6
+Length : 2
+ First Dice: 4 Second Dice: 5
+Length : 2
+
+o rolled [6, 6] with a score of 12
+Computer rolled [4, 5] with a score of 13
+
+Final Scores - o: 12, Computer: 13
+o wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 1 Second Dice: 2
+Length : 2
+ First Dice: 5 Second Dice: 1
+Length : 2
+
+o rolled [1, 2] with a score of 4
+Computer rolled [5, 1] with a score of 6
+ First Dice: 5 Second Dice: 1
+Length : 3
+ First Dice: 5 Second Dice: 1 Third Dice: 4
+Hey there o! Do you want to stick or throw again? (stick/throw): throw
+ First Dice: 1 Second Dice: 2
+Length : 3
+ First Dice: 1 Second Dice: 2 Third Dice: 3
+
+Final Scores - o: 4, Computer: 10
+o wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 1 Second Dice: 2
+Length : 2
+ First Dice: 6 Second Dice: 6
+Length : 2
+
+o rolled [1, 2] with a score of 4
+Computer rolled [6, 6] with a score of 12
+ First Dice: 6 Second Dice: 6
+Length : 3
+ First Dice: 6 Second Dice: 6 Third Dice: 5
+Hey there o! Do you want to stick or throw again? (stick/throw): stick
+
+Final Scores - o: 4, Computer: 17
+o wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 1 Second Dice: 1
+Length : 2
+ First Dice: 4 Second Dice: 4
+Length : 2
+
+o rolled [1, 1] with a score of 2
+Computer rolled [4, 4] with a score of 8
+ First Dice: 4 Second Dice: 4
+Length : 3
+ First Dice: 4 Second Dice: 4 Third Dice: 6
+Hey there o! Do you want to stick or throw again? (stick/throw): throw
+ First Dice: 1 Second Dice: 1
+Length : 3
+ First Dice: 1 Second Dice: 1 Third Dice: 5
+
+Final Scores - o: 7, Computer: 14
+o wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 1 Second Dice: 6
+Length : 2
+ First Dice: 4 Second Dice: 5
+Length : 2
+
+o rolled [1, 6] with a score of 7
+Computer rolled [4, 5] with a score of 13
+
+Final Scores - o: 7, Computer: 13
+o wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 4 Second Dice: 2
+Length : 2
+ First Dice: 3 Second Dice: 6
+Length : 2
+
+o rolled [4, 2] with a score of 6
+Computer rolled [3, 6] with a score of 9
+Hey there o! Do you want to stick or throw again? (stick/throw): throw
+ First Dice: 4 Second Dice: 2
+Length : 3
+ First Dice: 4 Second Dice: 2 Third Dice: 4
+
+Final Scores - o: 10, Computer: 9
+o wins!
+Hey there!! Do you want to play again? (yes/no): yes
+
+Starting a new game...
+ First Dice: 1 Second Dice: 2
+Length : 2
+ First Dice: 5 Second Dice: 5
+Length : 2
+
+o rolled [1, 2] with a score of 4
+Computer rolled [5, 5] with a score of 10
+Hey there o! Do you want to stick or throw again? (stick/throw): throw
+ First Dice: 1 Second Dice: 2
+Length : 3
+ First Dice: 1 Second Dice: 2 Third Dice: 3
+
+Final Scores - o: 4, Computer: 10
+o wins!
+Hey there!! Do you want to play again? (yes/no): no
